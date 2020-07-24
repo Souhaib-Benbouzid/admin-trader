@@ -1,8 +1,8 @@
 {
-  "name": "backend",
+  "name": "strapi-backend",
   "private": true,
-  "version": "0.1.0",
-  "description": "A Strapi application",
+  "version": "V1.0",
+  "description": "A strapi backend api",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -27,7 +27,8 @@
     "strapi-utils": "3.1.1"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "souhaib-benbouzid",
+    "github": "http://github.com/souhaib-Benbouzid"
   },
   "strapi": {
     "uuid": "b4b00e9a-58ef-45b4-9b32-ad010884e34d"
