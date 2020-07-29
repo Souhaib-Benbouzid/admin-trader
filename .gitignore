@@ -116,3 +116,4 @@ build
 .env.development
 
 package-lock.json
+yarn.lock

@@ -5,7 +5,10 @@
 ### 2- install dependencies
 
 ```
- cd backend && yarn
+ yarn
+
+ yarn build
+
 ```
 
 ### 3- setup cloudinary & postgress in heruko
@@ -65,4 +68,6 @@ heroku open
 
 ```
 
-### 4- api endpoint
+# local development
+
+    create .env.development file
