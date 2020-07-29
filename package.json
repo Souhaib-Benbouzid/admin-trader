@@ -1,7 +1,7 @@
 {
   "name": "strapi-backend",
   "private": true,
-  "version": "V1.0",
+  "version": "1.0.0",
   "description": "A strapi backend api",
   "scripts": {
     "develop": "strapi develop",
